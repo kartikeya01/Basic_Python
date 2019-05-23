@@ -1,7 +1,3 @@
-# Basic Python
-
-A collection of various basic Python projects I have completed
-
 ## Excercise 1
 
 A. How many seconds are there in 42 minutes 42 seconds?
